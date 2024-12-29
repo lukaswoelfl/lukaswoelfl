@@ -2,7 +2,7 @@
 
 ### Data Scientist | Python Enthusiast | Industrial Data Expert | AI Innovator
 
-I'm a Data Scientist from Germany with a versatile skill set that spans from hands-on electrical work to the analytical depths of industrial engineering. 
+I'm a Data Scientist with a versatile skill set that spans from hands-on electrical work to the analytical depths of industrial engineering. 
 My approach is that of a generalist, always connecting the dots between different fields to solve problems with data. 
 During my master's, I was drawn to data science through exciting projects, like using tweets to predict stock prices. 
 But it was my master thesis on machine learning for bearing failure prediction that sealed the deal. 
