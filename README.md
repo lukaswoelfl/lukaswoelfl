@@ -30,7 +30,7 @@ Now, I’m expanding into **generative AI** with LangChain and Hugging Face, bui
 
 ### 🌟 Featured Projects
 
-- **[RAG Chat App]([https://github.com/lukaswoelfl/WindAIlytics](https://github.com/lukaswoelfl/rag-chat-app))** is a locally hosted Retrieval-Augmented Generation (RAG) system integrated into a Streamlit chat application. It loads a PDF document, splits it into chunks, stores the chunks in a Qdrant vector database, and uses a RetrievalQA chain (powered by ChatGPT) to answer questions about the content.
+- **[RAG Chat App]([https://github.com/lukaswoelfl/rag-chat-app]** is a locally hosted Retrieval-Augmented Generation (RAG) system integrated into a Streamlit chat application. It loads a PDF document, splits it into chunks, stores the chunks in a Qdrant vector database, and uses a RetrievalQA chain (powered by ChatGPT) to answer questions about the content.
 - **[WindAIlytics](https://github.com/lukaswoelfl/WindAIlytics)** is a project focused on analyzing wind turbine sensor data to detect anomalies, calculate monthly KPIs, and generate automated reports tailored for both technical teams and management. The project leverages cutting-edge tools like LangChain and Hugging Face to deliver clear, actionable insights.
 
 ### 🤝 Let's connect!
