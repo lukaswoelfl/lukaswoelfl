@@ -1,39 +1,37 @@
 # Hi, I'm Lukas! 👋
 
-### Data Scientist | Python Enthusiast | Industrial Data Expert | AI Innovator
+**Data & AI Engineer | AWS Certified Solutions Architect | IIoT & Energy**
 
-I'm a Data Scientist with a versatile skill set that spans from hands-on electrical work to the analytical depths of industrial engineering. 
-My approach is that of a generalist, always connecting the dots between different fields to solve problems with data. 
-During my master's, I was drawn to data science through exciting projects, like using tweets to predict stock prices. 
-But it was my master thesis on machine learning for bearing failure prediction that sealed the deal. 
-Many nights of coding in Python and managing databases turned my interest into a true passion for data science.
+I started as a certified electrician. I ended up designing the data infrastructure 
+that makes industrial machines intelligent.
 
-After working in eMobility on energy-related datasets (2020–2022), I joined Ingersoll Rand in 2022, where I specialize in:
-- **Time Series Analysis and Forecasting**
-- **Condition Monitoring and Predictive Maintenance**
-- **Big Data Analytics**
-- **Data Visualization and Data Storytelling**
-- **Machine Learning and Deep Learning**
+That path, through an M.Sc. in Industrial Engineering, hands-on IIoT projects, 
+and now **AWS Certified Solutions Architect Associate** gives me something most data engineers 
+don't have: I understand what happens before the data hits the pipeline.
 
-Now, I’m expanding into **generative AI** with LangChain and Hugging Face, building cutting-edge tools for automated insights and workflows.
+At Ingersoll Rand I build and run production-grade analytics on GCP/BigQuery: 
+ELT pipelines, ML-based condition monitoring, automated reporting systems, and 
+Salesforce integrations for global sales and service teams.
 
----
+## 🛠️ Tech Stack
 
-### 🛠️ Tech Stack
+**Data Engineering & Cloud:** Python, SQL, BigQuery, GCP, AWS, Polars, Pydantic, FastAPI  
+**AI & ML:** Scikit-learn, PydanticAI, LangChain, AWS Bedrock, MLflow  
+**DevOps:** Git, Docker, CI/CD, ruff, uv  
+**Visualization:** Streamlit, Apache Superset, Plotly, automated PPT/PDF generation
 
-- **Languages:** Python, SQL
-- **Tools:** Pandas, NumPy, Matplotlib, Scikit-learn, TensorFlow, Google BigQuery
-- **Frameworks:** Streamlit, Dash
-- **Learning:** LangChain, Hugging Face
+## 🌟 Featured Projects
 
----
+**[compressor-agent](https://github.com/lukaswoelfl/compressor-agent)** — AI agent 
+answering questions about industrial compressor health directly from time-series data.
 
-### 🌟 Featured Projects
+**[rag-chat-app](https://github.com/lukaswoelfl/rag-chat-app)** — RAG-powered chat 
+app for querying PDFs using GPT-4o-mini, LangChain & Qdrant.
 
-- **[RAG Chat App](https://github.com/lukaswoelfl/rag-chat-app)** is a locally hosted Retrieval-Augmented Generation (RAG) system integrated into a Streamlit chat application. It loads a PDF document, splits it into chunks, stores the chunks in a Qdrant vector database, and uses a RetrievalQA chain (powered by ChatGPT) to answer questions about the content.
-- **[WindAIlytics](https://github.com/lukaswoelfl/WindAIlytics)** is a project focused on analyzing wind turbine sensor data to detect anomalies, calculate monthly KPIs, and generate automated reports tailored for both technical teams and management. The project leverages cutting-edge tools like LangChain and Hugging Face to deliver clear, actionable insights.
+**WindAIlytics** — Wind turbine sensor analysis: anomaly detection, KPI calculation, 
+automated reporting with LangChain.
 
-### 🤝 Let's connect!
+## 🤝 Let's connect!
 
 I'm always looking to collaborate on exciting projects or discuss new ideas. Feel free to reach out!
 - **[LinkedIn](https://www.linkedin.com/in/lukas-wölfl/)**
