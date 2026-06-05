@@ -1,5 +1,3 @@
-# Lukas Wölfl
-
 **Data & AI Engineer | AWS Certified Solutions Architect**
 
 Started as a certified electrician. Now building the data infrastructure 
