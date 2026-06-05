@@ -30,7 +30,3 @@ querying PDFs via GPT-4o-mini, LangChain & Qdrant.
 
 **[compressor-agent](https://github.com/lukaswoelfl/compressor-agent)** — AI agent 
 for industrial compressor health monitoring, answering questions directly from time-series data.
-
-## Connect
-
-[LinkedIn](https://www.linkedin.com/in/lukas-wölfl/) · [Email](mailto:rope-room2r@icloud.com)
