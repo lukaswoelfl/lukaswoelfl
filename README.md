@@ -22,14 +22,14 @@ Currently extending into LLM-powered tooling and agentic systems.
 
 ## 📦 Projects
 
-**[compressor-agent](https://github.com/lukaswoelfl/compressor-agent)** — AI agent 
-for industrial compressor health monitoring, answering questions directly from time-series data.
+**[github-actions-terraform-aws](https://github.com/lukaswoelfl/github-actions-terraform-aws)** — 
+GitOps pipeline: static site on S3 via Terraform, OIDC auth, GitHub Actions.
 
 **[rag-chat-app](https://github.com/lukaswoelfl/rag-chat-app)** — RAG chat app 
 querying PDFs via GPT-4o-mini, LangChain & Qdrant.
 
-**[github-actions-terraform-aws](https://github.com/lukaswoelfl/github-actions-terraform-aws)** — 
-GitOps pipeline: static site on S3 via Terraform, OIDC auth, GitHub Actions.
+**[compressor-agent](https://github.com/lukaswoelfl/compressor-agent)** — AI agent 
+for industrial compressor health monitoring, answering questions directly from time-series data.
 
 ## Connect
 
