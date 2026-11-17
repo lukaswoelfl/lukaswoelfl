@@ -1,4 +1,4 @@
-**Data & AI Engineer | AWS Certified Solutions Architect**
+**AI Platform Engineer | AWS Certified Solutions Architect**
 
 Started as a certified electrician. Now building the data infrastructure 
 that makes industrial machines talk.
